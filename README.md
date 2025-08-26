@@ -50,7 +50,7 @@ Navigate to a temporary directory and **clone the repository**:
 
 ```sh
 git clone https://github.com/Abhishek-7373/react-app.git
-cd my-react-app
+cd react-app
 ```
 
 **Open the App.js file**
@@ -58,7 +58,7 @@ cd my-react-app
 Navigate to your React app’s source folder:
 
 ```sh
-cd my-react-app/src
+cd react-app/src
 ```
 
 Open the App.js file in a text editor:
